@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Michael Jordan", "number": 23, "image": "http://3.bp.blogspot.com/-rK034EkURKk/UHOeFPW2FyI/AAAAAAAABKQ/MxuKmMbDICU/s1600/jordan+watermarked.jpg"},
+  {"id": 2, "name": "Penny Hardaway", "number": 1, "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF6nMEGtpwhDj1VW1NzT653D908f-nRcJILMvpMx61Zx1-wGTd"},
+  {"id": 3, "name": "Patrick Ewing", "number": 33, "image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQfVqOaTyPLPTnLa-xFqzPwnd-L1zcV87m34UiYOAOdJpZ3H02o"},
+  {"id": 4, "name": "Shaq Oneal", "number": 34, "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPvwVj7x4N6Sfplx1JZj9C_peWYX5UsvtL0krSELijiGyuZa2e"},
+  {"id": 5, "name": "Kobe Bryant", "number": 24, "image": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/110.png"},
+  {"id": 6, "name": "Lebron James", "number": 6, "image": "http://static5.businessinsider.com/image/51acb7b2ecad046b4900000b/the-spurs-have-figured-out-the-one-way-to-defend-lebron-james.jpg"}
+]

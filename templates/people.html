@@ -1,0 +1,19 @@
+<form class="form-search">
+  <input placeholder="Search" ng-model="query" />
+  <br />
+  Sort:
+  <label class="radio">
+    <input type="radio" name="order" value="name" ng-model="order" checked="checked" />
+    Name
+  </label>
+  <label class="radio">
+    <input type="radio" name="order" value="number" ng-model="order" />
+    Number
+  </label>
+</form>
+<div id="people">
+  <div class="person" ng-repeat="person in people | filter:searchFilter | orderBy:order">
+    <a href="#/people/{{person.id}}"><img ng-src="{{person.image}}" width="100px" /></a>
+    <b>{{person.number}}</b> - {{person.name}}
+  </div>
+</div>
